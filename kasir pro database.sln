@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kasir pro database", "kasir pro database\kasir pro database.csproj", "{1DBB322F-A97D-4DB4-98F5-BEBF84550822}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBB322F-A97D-4DB4-98F5-BEBF84550822}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBB322F-A97D-4DB4-98F5-BEBF84550822}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBB322F-A97D-4DB4-98F5-BEBF84550822}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBB322F-A97D-4DB4-98F5-BEBF84550822}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {712608DE-92BE-4DC3-A2E7-B0AE05E52DA1}
+	EndGlobalSection
+EndGlobal
