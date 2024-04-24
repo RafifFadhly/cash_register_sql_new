@@ -48,3 +48,57 @@ C:\Users\LENOVO\source\repos\kasir pro database\kasir pro database\obj\Debug\kas
 C:\Users\LENOVO\source\repos\kasir pro database\kasir pro database\obj\Debug\kasir_pro_database.Print.resources
 C:\Users\LENOVO\source\repos\kasir pro database\kasir pro database\obj\Debug\kasir_pro_database.Ganti_Password.resources
 C:\Users\LENOVO\source\repos\kasir pro database\kasir pro database\obj\Debug\kasir_pro_database.pembayaran.resources
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\kasir pro database.exe.config
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\kasir pro database.exe.manifest
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\kasir pro database.application
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\kasir pro database.exe
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\kasir pro database.pdb
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\BouncyCastle.Cryptography.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\Google.Protobuf.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\K4os.Compression.LZ4.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\K4os.Hash.xxHash.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\MySql.Data.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Buffers.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.IO.Pipelines.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Memory.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Numerics.Vectors.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\ZstdSharp.dll
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\BouncyCastle.Cryptography.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\Google.Protobuf.pdb
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\Google.Protobuf.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\K4os.Compression.LZ4.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\K4os.Hash.xxHash.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\MySql.Data.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Buffers.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.IO.Pipelines.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Memory.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Numerics.Vectors.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\cash_register_sql_new\kasir pro database\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.csproj.AssemblyReference.cache
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.barang.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.Kasir.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.Ganti_Password.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.Login.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.menu.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.pembayaran.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.Print.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.Properties.Resources.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.transaksi.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir_pro_database.User.resources
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.csproj.GenerateResource.cache
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.csproj.CoreCompileInputs.cache
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.exe.manifest
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.application
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.csproj.CopyComplete
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.exe
+D:\github\cash_register_sql_new\kasir pro database\obj\Debug\kasir pro database.pdb
