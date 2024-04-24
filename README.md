@@ -10,6 +10,9 @@ Aplikasi ini memiliki fitur :
 - rekap data transaksi (terhapus otomatis setiap satu bulan)
 - fitur search
 
+User : 
+- Rafif ,pw = 4321 (Admin)
+
 [APK](kasir_pro_database.application)
 
 ![Contoh Screenshot](gambar/1.png)
