@@ -14,7 +14,10 @@ Aplikasi ini memiliki fitur :
 User : 
 - Rafif ,pw = 4321 (Admin)
 
-[APK](kasir_pro_database.application)
+Install :
+- Download semua file
+- Impor kasir (1) ke SQL di Xampp
+- kasir_pro_database.application
 
 ![Contoh Screenshot](gambar/1.png)
 ![Contoh Screenshot](gambar/2.png)
