@@ -3,6 +3,7 @@
 Aplikasi Dekstop ini dibuat untuk memenuhi Portofolio saya, aplikasi ini default jadi bisa di gunakan siapa saja bahkan selain Cafe.
 
 Aplikasi ini memiliki fitur :
+- Database SQL (file tersedia di atas)
 - Enkripsi dan Deskripsi Password
 - Diagram batang jumlah transaksi pembelian/jam/hari
 - terdapat mode Karyawan dan Admin (User apk ini hanya karyawan dari perusahaan tersebut)
