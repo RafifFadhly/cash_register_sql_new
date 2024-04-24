@@ -1,4 +1,4 @@
-# Cafe Cash register
+# Cash register
 
 Aplikasi Dekstop ini dibuat untuk memenuhi Portofolio saya, aplikasi ini default jadi bisa di gunakan siapa saja bahkan selain Cafe.
 
